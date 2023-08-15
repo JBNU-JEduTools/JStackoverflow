@@ -64,7 +64,7 @@
     "composer.upload-file": "Upload File",
     "composer.zen_mode": "Zen Mode",
     "composer.select_category": "Select a category",
-    "composer.textarea.placeholder": "Enter your post content here, drag and drop images",
+    "composer.textarea.placeholder": "Enter your post content here, drag and drop images\nWhen asking a question, please clearly state the code, output, intention, etc.",
     "composer.schedule-for": "Schedule topic for",
     "composer.schedule-date": "Date",
     "composer.schedule-time": "Time",
